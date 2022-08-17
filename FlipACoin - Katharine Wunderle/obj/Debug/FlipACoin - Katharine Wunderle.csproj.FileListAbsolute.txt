@@ -1,0 +1,20 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\bin\Debug\FlipACoin - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\bin\Debug\FlipACoin - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\bin\Debug\FlipACoin - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin___Katharine_Wunderle.FlipACoin.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.pdb
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\bin\Debug\FlipACoin - Katharine Wunderle.exe.config
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\bin\Debug\FlipACoin - Katharine Wunderle.exe
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\bin\Debug\FlipACoin - Katharine Wunderle.pdb
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.csproj.AssemblyReference.cache
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin___Katharine_Wunderle.FlipACoin.resources
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.exe
+C:\Users\KATIE\Documents\School\01 - Archive\2021 Spring\C#\Homework\Homework 2\IntroGUIProblems - Katharine Wunderle\FlipACoin - Katharine Wunderle\obj\Debug\FlipACoin - Katharine Wunderle.pdb
